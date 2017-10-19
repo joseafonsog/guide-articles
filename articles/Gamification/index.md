@@ -4,13 +4,20 @@ title: Gamification
 
 ## Gamification
 
-This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Gamification/index.md).
+<strong>Gamification</strong> is te use of game style designs in non-game context to mantain the user engaged with the activities they are making.
 
-[This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+#### This practice can have many applications:
+1) Marketing
+2) Inspiration
+3) Health
+4) Work
+5) Crowdsourcing
+6) Education
+7) Politics
+8) Tecnology design
+9) Authentication
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+[Article with some Gamification Examples](http://yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/)
 
 
